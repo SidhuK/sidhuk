@@ -17,12 +17,10 @@
             'backend': ['Python', 'Flask'],
             'tools': ['GIT', 'GitHub', 'Seaborn', 'Pandas', 'Jupyter notebook','dplyr', 'tidyverse'],
             }
-
         self.scientific = {
             'research' : ['Metabolomics', 'Proteomics', 'LC/MS/MS', 'Cell_Biology'],
             'academic' : ['Biotechnology', 'Analytical Chemistry']
             }
-
         self.personal = ['Reading', 'Painting', 'running', 'skiing']
 
 
@@ -37,10 +35,14 @@ if __name__ == '__main__':
 
 
 
-<h4 align="center">What I code in a nutshell</h4>
-<div align = "center">
+<h4 align="center">My Socials:</h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhuk&layout=compact)](https://github.com/sidhuk/github-readme-stats)
+<div align="center">
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sidhuk.github.io/)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karatsidhu)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://karatsidhu.medium.com/)  [![Twitter](https://img.shields.io/badge/karat_sidhu-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/karat_sidhu) 
+
+
 
 
 <h4 align="center">What I use in a nutshell</h4>
@@ -50,13 +52,5 @@ if __name__ == '__main__':
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-
-
-<h4 align="center">My Socials:</h4>
-
-<div align="center">
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sidhuk.github.io/)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karatsidhu)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://karatsidhu.medium.com/)  [![Twitter](https://img.shields.io/badge/karat_sidhu-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/karat_sidhu) 
 
 <h4 align="center">✌️</h4>
