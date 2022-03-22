@@ -1,5 +1,5 @@
 
-<h4 align="Center"> Welcome to my GitHub Page!</h2>
+<h4 align="Center"> Welcome to my GitHub Page! 👋 </h2>
 
 
 
@@ -15,12 +15,14 @@
             'main_coding_languages': ['Python', 'R'],
             'frontend': ['HTML', 'CSS', 'Bootstrap'],
             'backend': ['Python', 'Flask'],
-            'tools': ['GIT', 'GitHub', 'Seaborn', 'Pandas', 'Jupyter notebook'],
+            'tools': ['GIT', 'GitHub', 'Seaborn', 'Pandas', 'Jupyter notebook','dplyr', 'tidyverse'],
             }
+
         self.scientific = {
             'research' : ['Metabolomics', 'Proteomics', 'LC/MS/MS', 'Cell_Biology'],
             'academic' : ['Biotechnology', 'Analytical Chemistry']
             }
+
         self.personal = ['Reading', 'Painting', 'running', 'skiing']
 
 
@@ -33,35 +35,28 @@ if __name__ == '__main__':
 
 ```
 
-<div align = "center">
 
-<h2 align="">I know a bit of :</h2>
 
-<p align="">
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
- </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/991px-R_logo.svg.png" alt="bootstrap" width="40" height="40"/> 
-   </p>
-</div>
-
-<br> </br>
-
-<h4 align="center">My public profile in a nutshell</h4>
-
-<div align = "center">
-
-![Karat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidhuk&show_icons=true&theme=light) </div>
-
-<br> </br>
-
+<h4 align="center">What I code in a nutshell</h4>
 <div align = "center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhuk&layout=compact)](https://github.com/sidhuk/github-readme-stats)
+
+
+<h4 align="center">What I use in a nutshell</h4>
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
+
+
+<h4 align="center">My Socials:</h4>
+
+<div align="center">
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sidhuk.github.io/)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karatsidhu)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://karatsidhu.medium.com/)  [![Twitter](https://img.shields.io/badge/karat_sidhu-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/karat_sidhu) 
+
+<h4 align="center">✌️</h4>
