@@ -1,5 +1,5 @@
 
-<h4 align="Center"> Welcome to my GitHub Page! 👋 </h2>
+<h4 align="Center"> 👋 </h2>
 
 
 
