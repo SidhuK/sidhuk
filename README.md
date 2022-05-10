@@ -12,10 +12,9 @@
         self.web = 'https://sidhuk.github.io'
         self.twitter = '@karat_sidhu'
         self.code = {
-            'main_coding_languages': ['Python', 'R'],
+            'main_coding_languages': ['R', 'Python'],
             'frontend': ['HTML', 'CSS', 'Bootstrap'],
-            'backend': ['Python', 'Flask'],
-            'tools': ['GIT', 'GitHub', 'Seaborn', 'Pandas', 'Jupyter notebook','dplyr', 'tidyverse'],
+            'tools': ['TidyVerse', 'RMarkdown', 'GIT', 'GitHub', 'Seaborn', 'Pandas', 'Jupyter'],
             }
         self.scientific = {
             'research' : ['Metabolomics', 'Proteomics', 'LC/MS/MS', 'Cell_Biology'],
